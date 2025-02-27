@@ -6,7 +6,6 @@ function Topic4() {
     <div>
         <h1>Основные времена</h1>
     </div>
-    
   )
 }
 
