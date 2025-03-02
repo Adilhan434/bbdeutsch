@@ -15,7 +15,7 @@ function DuetschA1() {
       
       <a className='text' href="">﻿4.1.Präsens (настоящее время)</a>
       <a className='text' href="">﻿4.2.Perfekt (прошедшее время для разговорной речи)</a>
-      <a href="">﻿5.Глаголы</a>
+      <Link to='./DeutschA15'>﻿5.Глаголы</Link>
       <a className='text' href="">5.1.Правильные и неправильные</a>
       <a className='text'href="">5.2.Основные модальные глаголы (können, müssen, wollen, dürfen, sollen)</a>
       <a className='text'href="">5.3.Sein, haben</a>

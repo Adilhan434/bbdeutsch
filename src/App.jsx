@@ -11,6 +11,7 @@ import Topic1 from './Components/Topics/TopicsA1/Topic1/Topic1.jsx'
 import Topic2 from './Components/Topics/TopicsA1/Topic2/Topic2.jsx'
 import Topic3 from './Components/Topics/TopicsA1/Topic3/Topic3.jsx'
 import Topic4 from './Components/Topics/TopicsA1/Topic4/Topic4.jsx'
+import Topic5 from './Components/Topics/TopicsA1/Topic5/Topic5.jsx'
 
 function App() {
 
@@ -38,6 +39,7 @@ function App() {
                   <Route path='DuetschA12' element={<Topic2/>}/>
                   <Route path='DuetschA13' element={<Topic3/>}/>
                   <Route path='DuetschA14' element={<Topic4/>}/>
+                  <Route path='DuetschA15' element={<Topic5/>}/>
 
                   
             </Routes>
