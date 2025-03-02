@@ -39,7 +39,7 @@ function App() {
                   <Route path='DuetschA12' element={<Topic2/>}/>
                   <Route path='DuetschA13' element={<Topic3/>}/>
                   <Route path='DuetschA14' element={<Topic4/>}/>
-                  <Route path='DuetschA15' element={<Topic5/>}/>
+                  <Route path='DeutschA15' element={<Topic5/>}/>
 
                   
             </Routes>
